@@ -1,0 +1,33 @@
+.tamano-texto-cuerpo-lista{
+    font-size: 16px;
+    font-weight: 500;
+}
+.tamano-texto-cuerpo-boton{
+    font-size: 15px;
+    font-weight: 500;
+}
+/*Tabla Familia*/
+.familia-tabla {
+    border-color: #ed7d31;
+    text-align: center;
+}
+.familia-tabla > thead {
+    background-color: #ed7d31;
+    border-color: #ed7d31
+}
+.familia-tabla > thead > tr > th {
+    color: white;
+}
+.familia-tabla > tbody {
+    border-color: #ed7d31;
+}
+.familia-tabla > tbody > tr:nth-child(odd) {
+    background-color: #fce4d6;
+}
+.margenes-botones{
+    padding: 0px 0px 15px 0px;
+}
+.familianumeroslista{
+    text-align: right;
+}
+/*Fin Tabla Familia*/
